@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="Firebase Cloud Messaging" title="#Firebase Cloud Messaging" src=".images/header.png" width="100%" />
-</h1>
 <h4 align="center"> 
 	SpaceApp
 </h4>
