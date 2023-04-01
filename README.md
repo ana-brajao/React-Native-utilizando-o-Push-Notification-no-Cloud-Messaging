@@ -1,4 +1,6 @@
-## Neste PROJETO usaremos SpaceApp, um aplicativo dedicado à postagem de eventos do universo. Nós estamos o utilizando desde o curso sobre Firebase Cloud Storage.
+## Neste PROJETO usaremos SpaceApp, um aplicativo dedicado à postagem de eventos do universo. 
+
+Nós estamos o utilizando desde o curso sobre Firebase Cloud Storage.
 
 Vamos aprender a usar o Push Notification, utilizando Firebase Cloud Messaging — mais um serviço oferecido pelo Firebase. Além da aplicação mobile que vamos desenvolver, também utilizaremos uma aplicação web para simular o envio de notificação. Ela se comunicará com uma API que construiremos ao longo do curso, para enviar notificações de forma personalizada às pessoas usuárias.
 
@@ -54,7 +56,6 @@ $ cd react-native-firebase-notification
 $ npm install
 ```
 
-
 ### Executar o Mobile
 
 ```bash
@@ -62,10 +63,8 @@ $ npm install
 $ npx expo start
 ```
 
-Para o projeto Web utilizado no curso, acesse o repositório [aqui](https://github.com/alura-cursos/spaceapp-web).
-
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
+Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn 
+:wave: 
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
