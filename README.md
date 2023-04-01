@@ -1,3 +1,13 @@
+## Neste PROJETO usaremos SpaceApp, um aplicativo dedicado à postagem de eventos do universo. Nós estamos o utilizando desde o curso sobre Firebase Cloud Storage.
+
+Vamos aprender a usar o Push Notification, utilizando Firebase Cloud Messaging — mais um serviço oferecido pelo Firebase. Além da aplicação mobile que vamos desenvolver, também utilizaremos uma aplicação web para simular o envio de notificação. Ela se comunicará com uma API que construiremos ao longo do curso, para enviar notificações de forma personalizada às pessoas usuárias.
+
+Utilizar notificações em um aplicativo é muito relevante, porque alerta a pessoa usuária sobre eventos novos até mesmo se o aplicativo não estiver aberto. Entre outras opções, é possível notificar atualizações, mensagens recebidas ou conteúdos novos que chegaram na aplicação.
+
+Tudo isso é bom para manter o engajamento do uso da nossa aplicação. Às vezes, dependendo da frequência em que o conteúdo é atualizado, a pessoa usuária pode deixar usar a aplicação. As notificações são importíssimas para manter o uso frequente do aplicativo.
+
+Quais os pré-requisitos? Conhecimento do React Native com Expo e Firebase Firestore.
+
 <h4 align="center"> 
 	SpaceApp
 </h4>
